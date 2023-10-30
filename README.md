@@ -20,44 +20,33 @@ L'application  offre les fonctionnalités suivantes :
 - **Gestion des Marques** : Vous pouvez gérer les informations sur les marques notamment leurs Id,	Code, Libelle.
 
  ## Les interfaces de l'application 
- ### Page d'Accueil (Home)
-- La page d'accueil est la première interface que les utilisateurs voient lorsqu'ils accèdent à l'application. Elle présente un aperçu du système.
-- Sur cette page, un **Pie Chart** est affiché pour montrer le nombre total de machines enregistrées dans le système par marque.
-  
  
-  
  ### Gestion des Étudiants
-- Cette interface permet aux utilisateurs de gérer les données relatives aux étudiants enregistrés dans le système.
-- Elle affiche un tableau contenant des informations sur les étudiants.
 
-  
- #### Supression d'un etudiant 
+ ![gestion etud](https://github.com/bananaacaat/tp-ajax2/assets/147453939/2a3e73ff-5333-4451-9aa9-ea9bb8fe73bd)
  
 
-
-  #### Modification d'un etudiant 
-
+ ### Gestion des Machines
  
+ ![gest machine](https://github.com/bananaacaat/tp-ajax2/assets/147453939/1784fbec-c841-43c9-95f0-2e25537091ed)
 
-### Gestion des Machines
 
-- Cette interface est dédiée à la gestion des informations sur les machines.
-- Elle présente un tableau affichant des données détaillées sur les machines
+ ### Gestion des Marques
   
-  
+  ![getsion marq](https://github.com/bananaacaat/tp-ajax2/assets/147453939/aed99702-299d-40a1-a2be-aa8b9ca3f88e)
 
-  ### Gestion des Marques
-  
-  L'interface de gestion des marques est conçue pour permettre aux utilisateurs de gérer les informations sur les marques de machines.
 
-  
+ ### Gestion des Machines par Marques
 
-    ### Gestion des Machines par Marques
-  - Cette interface offre une vue filtrée des machines en fonction de leur marque.
-  - Les utilisateurs peuvent sélectionner une marque spécifique dans une liste déroulante ou en utilisant des filtres et voir la liste des machines associées à cette marque.
+  ![machin par marq](https://github.com/bananaacaat/tp-ajax2/assets/147453939/986d3030-2d55-4292-a8af-9ec5132b1eac)
 
    
+ ### Gestion des Machines par Référence
 
+  ![marq par ref](https://github.com/bananaacaat/tp-ajax2/assets/147453939/e17fe4a2-3e4e-4b7d-9e3f-d1f8c487f191)
+
+
+ 
    ## Comment Démarrer le projet
 
 1. Clonez le dépôt sur votre machine locale.
